@@ -28,4 +28,4 @@
 
 # Ignore some test folders
 archive
-data
+datasets
